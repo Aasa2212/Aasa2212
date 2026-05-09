@@ -1,5 +1,6 @@
 # 💫 About Me:
-currently working on sales anomaly detection dashboard.<br>also currently learning genAI.
+Aspiring Data Analyst skilled in Python, SQL, Excel, Pandas, and Machine Learning. Passionate about transforming raw data into actionable business insights through analytics, visualization, and predictive modeling. Building real-world projects in anomaly detection, customer churn prediction, and sales analytics.
+
 
 
 ## 🌐 Socials:
